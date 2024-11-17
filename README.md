@@ -50,5 +50,6 @@ This project analyzes and forecasts power consumption patterns using advanced st
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/power-consumption-optimization.git
-   cd power-consumption-optimization
+   git clone https://github.com/0neaboveall/Power-Consumption-Optimization-and-Forecasting.git
+   cd Power-Consumption-Optimization-and-Forecasting
+
