@@ -1,18 +1,15 @@
-# COSC 6520 701 Data Analytics
-# Project 2
-
 ##clear your working directory
-rm(list = ls())
+#rm(list = ls())
 
-# Load libraries
+# libraries
 library(data.table)  
 library(ggplot2)     
 library(forecast)  
 library(cluster)     
 library(fpp2)   
 
-# Load data
-data <- fread("C:\\Users\\anish\\Downloads\\archive (15)\\powerconsumption.csv")
+# data
+data <- fread("File Path")
 
 print(head(data))
 
